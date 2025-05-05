@@ -33,7 +33,7 @@ Install all required packages with:
 
 ```bash
 pip install numpy matplotlib scikit-learn torch
-,,,
+```
 
 
 🚀 How to Run
